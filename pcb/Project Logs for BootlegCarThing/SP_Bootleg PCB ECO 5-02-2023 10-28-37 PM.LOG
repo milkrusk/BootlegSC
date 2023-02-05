@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Col2 Pin=Pico Pi1-24
+Removed Pin From Net: NetName=Col3 Pin=Pico Pi1-27
+Added Pin To Net: NetName=Col3 Pin=Pico Pi1-24
+Added Pin To Net: NetName=Col2 Pin=Pico Pi1-27
+Added Room: Name=MainSch

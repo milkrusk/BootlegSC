@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=SB2-1
+Removed Pin From Net: NetName=3V3 Pin=SB3-1
+Removed Member From Class: ClassName=MainSch Member=SB2
+Removed Member From Class: ClassName=MainSch Member=SB3
+Added Pin To Net: NetName=+5 Pin=Pico Pi1-39
+Add Class Member: Failed to add class member : Component J2 USB4800-03-A

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Col0 Pin=Pico Pi1-24
+Removed Pin From Net: NetName=Col2 Pin=Pico Pi1-26
+Added Pin To Net: NetName=Col2 Pin=Pico Pi1-24
+Added Pin To Net: NetName=Col0 Pin=Pico Pi1-26

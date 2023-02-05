@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Row0 Pin=Pico Pi1-21
+Removed Pin From Net: NetName=Row1 Pin=Pico Pi1-22
+Change Component Designator: OldDesignator= NewDesignator=J2
+Added Pin To Net: NetName=Row1 Pin=Pico Pi1-21
+Added Pin To Net: NetName=Row0 Pin=Pico Pi1-22
