@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ronal\Documents\Random_Stuff\BootlegSC\pcb\SP_Bootleg.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sp_bootleg-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sp_bootleg-slotholes.txt|DrillLayers=gtl,gbl

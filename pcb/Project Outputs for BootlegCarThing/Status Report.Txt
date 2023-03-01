@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BootlegCarThing.PrjPcb]
+   Generated File[SP_Bootleg-RoundHoles.TXT]
+   Generated File[SP_Bootleg-SlotHoles.TXT]
+   Generated File[SP_Bootleg.LDP]
+   Generated File[SP_Bootleg.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:56:36 PM On 1/03/2023

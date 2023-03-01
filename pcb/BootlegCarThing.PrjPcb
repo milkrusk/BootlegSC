@@ -83,13 +83,13 @@ GenerateClassCluster=0
 DocumentUniqueId=PJFEKCQB
 
 [Document3]
-DocumentPath=E:\CMT23Stuff\ProgAdaptor\PCB\UART Debug\FTDI_USB_UART_Self_Pow.SchDoc
+DocumentPath=FTDI_USB_UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EPUEITSJ
+DocumentUniqueId=MDKOYVMV
 
 [Document4]
 DocumentPath=BootlegCarThing.BomDoc
