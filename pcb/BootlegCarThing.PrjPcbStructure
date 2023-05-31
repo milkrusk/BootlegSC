@@ -1,2 +1,2 @@
-Record=TopLevelDocument|FileName=FTDI_USB_UART_Self_Pow.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=FTDI_USB_UART_Self_Pow.SchDoc|FileName=MainSch.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=MainSch.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MainSch.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=FTDI_USB_UART.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=FTDI_USB_UART.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
